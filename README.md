@@ -9,6 +9,11 @@
 
 - ⚡ Curiosidades **Gosto de jogar com amigos e sou muito extrovertido**
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=padrins1&show_icons=true&theme=cobalt)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=padrins1&hide_progress=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gabriel-de-almeida-8624a0179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabriel-de-almeida-8624a0179" height="30" width="40" /></a>
