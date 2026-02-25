@@ -1,16 +1,55 @@
-## Hi there 👋
+<h1 align="center">🎮 Gabriel "Padrin" Antunes 🕹️</h1>
 
-<!--
-**Padrins1/Padrins1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-LEVELING_UP-00FFAA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MISSION-FIRST_INTERNSHIP-FF4C4C?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Padrins1&color=blueviolet&style=flat-square" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="./assets/itachi.gif" width="520" alt="Itachi"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 PLAYER INFO
+
+```bash
+> Player: Gabriel Antunes
+> Nickname: Padrin
+> Class: ADS Student
+> Guild: FIAP
+> Location: São Paulo - SP
+> English: B2
+> Dream: Build a successful game or app
+
+⚔️ SKILL TREE (XP Bars)
+
+🐍 Python
+[▎..................................] 3%
+
+🌐 HTML
+[▎..................................] 3%
+
+🎨 CSS
+[▎..................................] 3%
+
+🧠 JavaScript
+[████................................] 8%
+
+🗄️ SQL
+[▎..................................] 3%
+
+📊 PLAYER STATS
+<div align="center"> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Padrins1&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Padrins1&layout=compact&theme=tokyonight&hide_border=true" /> </div>
+
+📡 CONTACT
+
+💼 LinkedIn: https://www.linkedin.com/in/gabriel-antunes-91b4ba388
+
+📧 Email: gantunes06@gmail.com
+
+<p align="center"><b>⚡ Code. Learn. Evolve. ⚡</b></p> ```
+
+🔧 Git / GitHub
+[▎..................................] 3%
