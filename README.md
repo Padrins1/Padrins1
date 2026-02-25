@@ -21,7 +21,7 @@
 
 ---
 
-## 🧠 Sobre mim (rápido e recrutador-friendly)
+## 🧠 Sobre mim
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **FIAP**
 - 🎯 Buscando **minha primeira oportunidade de estágio** (desenvolvimento / suporte / dados)
@@ -52,9 +52,8 @@
 
 ---
 
-## 🧩 Projetos em destaque (vai ficar forte com 2–3 projetos)
+## 🧩 Projetos em destaque
 
-> Quando você tiver projetos, coloca aqui (mesmo que simples):
 - ✅ **Projeto 1:** (link) — o que faz em 1 linha  
 - ✅ **Projeto 2:** (link) — o que faz em 1 linha  
 - ✅ **Projeto 3:** (link) — o que faz em 1 linha  
@@ -80,7 +79,7 @@
 - [x] Subir assets + organização do perfil
 - [ ] Fazer 2 projetos pequenos para portfólio (HTML/CSS/JS)
 - [ ] Fazer 1 projeto com Python (automação simples)
-- [ ] Aplicar para 10 vagas de estágio
+- [x] Aplicar para 10 vagas de estágio
 
 ---
 
