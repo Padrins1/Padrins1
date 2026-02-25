@@ -43,6 +43,7 @@
 🔧 Git / GitHub
 [▎..................................] 3%
 
+📊 PLAYER STATS
 <div align="center"> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Padrins1&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Padrins1&layout=compact&theme=tokyonight&hide_border=true" /> </div>
 
 📡 CONTACT
@@ -51,5 +52,5 @@
 
 📧 Email: gantunes06@gmail.com
 
-<p align="center"> <b>⚡ Code. Learn. Evolve. ⚡</b> </p>
+<p align="center"><b>⚡ Code. Learn. Evolve. ⚡</b></p>
 
