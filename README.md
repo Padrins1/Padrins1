@@ -25,7 +25,7 @@
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **FIAP**
 - 🎯 Buscando **minha primeira oportunidade de estágio** (desenvolvimento / suporte / dados)
-- 🌍 **Inglês B2**
+- 🌍 **Inglês B1**
 - 🧩 Curto projetos práticos e aprender criando
 
 ---
