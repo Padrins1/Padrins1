@@ -54,7 +54,8 @@
 
 ## 🧩 Projetos em destaque
 
-- ✅ **Projeto 1: https://github.com/Padrins1/UserApi — Uma API para buscar informações.   
+- ✅ **Projeto 1: https://github.com/Padrins1/UserApi — Uma API para buscar informações.
+- ✅ **Projeto 2: https://github.com/Padrins1/exercicios-python — Alguns programas em Py.    
 
 ---
 
