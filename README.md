@@ -54,9 +54,7 @@
 
 ## 🧩 Projetos em destaque
 
-- ✅ **Projeto 1:** (link) — o que faz em 1 linha  
-- ✅ **Projeto 2:** (link) — o que faz em 1 linha  
-- ✅ **Projeto 3:** (link) — o que faz em 1 linha  
+- ✅ **Projeto 1: https://github.com/Padrins1/UserApi — Uma API para buscar informações.   
 
 ---
 
