@@ -45,10 +45,13 @@
 `[████................................] 8%`
 
 🗄️ **SQL**  
-`[▎..................................] 3%`
+`[▎██████............................] 15%`
 
 🔧 **Git / GitHub**  
 `[▎..................................] 3%`
+
+🖥️ **C#**  
+`[▎████████████......................] 30%`
 
 ---
 
@@ -56,7 +59,8 @@
 
 - ✅ **Projeto 1: https://github.com/Padrins1/UserApi — Uma API para buscar informações.
 - ✅ **Projeto 2: https://github.com/Padrins1/exercicios-python — Alguns programas em Py.  
-- ✅ **Projeto 3: https://github.com/Padrins1/helpub-fintech — Design HTML Tailwind css, para fintech. 
+- ✅ **Projeto 3: https://github.com/Padrins1/helpub-fintech — Design HTML Tailwind css, para fintech.
+- ✅ **Projeto 4: https://github.com/Padrins1/Screen-Sound — Aplicativo de adicionar músicas e avaliar as mesmas. 
 
 ---
 
