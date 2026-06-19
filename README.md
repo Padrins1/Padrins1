@@ -24,7 +24,7 @@
 ## 🧠 Sobre mim
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **FIAP**
-- 🎯 Buscando **minha primeira oportunidade de estágio** (desenvolvimento / suporte / dados)
+- 🎯 Buscando **Evolução na área**
 - 🌍 **Inglês B1**
 - 🧩 Curto projetos práticos e aprender criando
 
@@ -33,13 +33,13 @@
 ## ⚔️ Skill Tree (XP Bars)
 
 🐍 **Python**  
-`[▎..................................] 3%`
+`[▎████..............................] 15%`
 
 🌐 **HTML**  
-`[▎..................................] 3%`
+`[▎██████............................] 20%`
 
 🎨 **CSS**  
-`[▎..................................] 3%`
+`[▎███...............................] 10%`
 
 🧠 **JavaScript**  
 `[████................................] 8%`
@@ -55,7 +55,8 @@
 ## 🧩 Projetos em destaque
 
 - ✅ **Projeto 1: https://github.com/Padrins1/UserApi — Uma API para buscar informações.
-- ✅ **Projeto 2: https://github.com/Padrins1/exercicios-python — Alguns programas em Py.    
+- ✅ **Projeto 2: https://github.com/Padrins1/exercicios-python — Alguns programas em Py.  
+- ✅ **Projeto 3: https://github.com/Padrins1/helpub-fintech — Design HTML Tailwind css, para fintech. 
 
 ---
 
@@ -77,7 +78,7 @@
 - [x] Criar GitHub Profile README
 - [x] Subir assets + organização do perfil
 - [ ] Fazer 2 projetos pequenos para portfólio (HTML/CSS/JS)
-- [ ] Fazer 1 projeto com Python (automação simples)
+- [x] Fazer 1 projeto com Python (automação simples)
 - [x] Aplicar para 10 vagas de estágio
 
 ---
