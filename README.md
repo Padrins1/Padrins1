@@ -3,7 +3,7 @@
 <!-- ================================================= -->
 
 <h1 align="center">🎮 Gabriel "Padrin" Antunes</h1>
-<p align="center"><b>ADS • FIAP • Estágio em TI • Dev em evolução</b></p>
+<p align="center"><b>ADS • FIAP • Estagiário em BackEnd • Dev em evolução</b></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-LEVELING_UP-00FFAA?style=for-the-badge" />
